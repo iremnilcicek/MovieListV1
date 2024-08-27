@@ -23,6 +23,7 @@
 		F3EB13252C7766950089EB3A /* WebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB131E2C7766950089EB3A /* WebViewController.swift */; };
 		F3EB13262C7766950089EB3A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB131F2C7766950089EB3A /* ViewController.swift */; };
 		F3EB13272C7766950089EB3A /* MovieListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB13202C7766950089EB3A /* MovieListModel.swift */; };
+		F3EB13292C7DF0990089EB3A /* TrendingMoviesResponseModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB13282C7DF0990089EB3A /* TrendingMoviesResponseModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,6 +64,7 @@
 		F3EB131E2C7766950089EB3A /* WebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebViewController.swift; sourceTree = "<group>"; };
 		F3EB131F2C7766950089EB3A /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F3EB13202C7766950089EB3A /* MovieListModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MovieListModel.swift; sourceTree = "<group>"; };
+		F3EB13282C7DF0990089EB3A /* TrendingMoviesResponseModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrendingMoviesResponseModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				F3EB13202C7766950089EB3A /* MovieListModel.swift */,
 				F3EB12EC2C7765EF0089EB3A /* SceneDelegate.swift */,
 				F3EB12EE2C7765EF0089EB3A /* ViewController.swift */,
+				F3EB13282C7DF0990089EB3A /* TrendingMoviesResponseModel.swift */,
 				F3EB131C2C7766950089EB3A /* AppDelegate.swift */,
 				F3EB131A2C7766950089EB3A /* DetailViewController.swift */,
 				F3EB131B2C7766950089EB3A /* MovieCollectionViewCell.swift */,
@@ -287,6 +290,7 @@
 				F3EB13222C7766950089EB3A /* MovieCollectionViewCell.swift in Sources */,
 				F3EB13272C7766950089EB3A /* MovieListModel.swift in Sources */,
 				F3EB12ED2C7765EF0089EB3A /* SceneDelegate.swift in Sources */,
+				F3EB13292C7DF0990089EB3A /* TrendingMoviesResponseModel.swift in Sources */,
 				F3EB13212C7766950089EB3A /* DetailViewController.swift in Sources */,
 				F3EB13252C7766950089EB3A /* WebViewController.swift in Sources */,
 			);
