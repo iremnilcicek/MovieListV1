@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F395770B2C887A9D006899F9 /* MovieTwoColumnCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F395770A2C887A9D006899F9 /* MovieTwoColumnCell.swift */; };
+		F3BF93A92C88422600BF28D3 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3BF93A82C88422600BF28D3 /* ListViewController.swift */; };
 		F3EB12EB2C7765EF0089EB3A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB12EA2C7765EF0089EB3A /* AppDelegate.swift */; };
 		F3EB12ED2C7765EF0089EB3A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB12EC2C7765EF0089EB3A /* SceneDelegate.swift */; };
 		F3EB12EF2C7765EF0089EB3A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EB12EE2C7765EF0089EB3A /* ViewController.swift */; };
@@ -44,6 +46,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F395770A2C887A9D006899F9 /* MovieTwoColumnCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieTwoColumnCell.swift; sourceTree = "<group>"; };
+		F3BF93A82C88422600BF28D3 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 		F3EB12E72C7765EF0089EB3A /* MovieListV1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MovieListV1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3EB12EA2C7765EF0089EB3A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F3EB12EC2C7765EF0089EB3A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -95,6 +99,8 @@
 		F3EB12DE2C7765EF0089EB3A = {
 			isa = PBXGroup;
 			children = (
+				F395770A2C887A9D006899F9 /* MovieTwoColumnCell.swift */,
+				F3BF93A82C88422600BF28D3 /* ListViewController.swift */,
 				F3EB12E92C7765EF0089EB3A /* MovieListV1 */,
 				F3EB13002C7765F00089EB3A /* MovieListV1Tests */,
 				F3EB130A2C7765F00089EB3A /* MovieListV1UITests */,
@@ -284,11 +290,13 @@
 			files = (
 				F3EB13232C7766950089EB3A /* AppDelegate.swift in Sources */,
 				F3EB13242C7766950089EB3A /* SceneDelegate.swift in Sources */,
+				F3BF93A92C88422600BF28D3 /* ListViewController.swift in Sources */,
 				F3EB12EF2C7765EF0089EB3A /* ViewController.swift in Sources */,
 				F3EB13262C7766950089EB3A /* ViewController.swift in Sources */,
 				F3EB12EB2C7765EF0089EB3A /* AppDelegate.swift in Sources */,
 				F3EB13222C7766950089EB3A /* MovieCollectionViewCell.swift in Sources */,
 				F3EB13272C7766950089EB3A /* MovieListModel.swift in Sources */,
+				F395770B2C887A9D006899F9 /* MovieTwoColumnCell.swift in Sources */,
 				F3EB12ED2C7765EF0089EB3A /* SceneDelegate.swift in Sources */,
 				F3EB13292C7DF0990089EB3A /* TrendingMoviesResponseModel.swift in Sources */,
 				F3EB13212C7766950089EB3A /* DetailViewController.swift in Sources */,
